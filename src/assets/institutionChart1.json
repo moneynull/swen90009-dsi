@@ -1,0 +1,157 @@
+{
+  "type": "force",
+  "categories": [
+    {
+      "name": "ANU",
+      "keyword": {},
+      "base": "ANU"
+    },
+    {
+      "name": "UniMelb",
+      "keyword": {},
+      "base": "UniMelb"
+    },
+    {
+      "name": "Sydney",
+      "keyword": {},
+      "base": "Sydney"
+    },
+    {
+      "name": "UNSW",
+      "keyword": {},
+      "base": "UNSW"
+    },
+    {
+      "name": "UQ",
+      "keyword": {},
+      "base": "UQ"
+    },
+    {
+      "name": "Monash",
+      "keyword": {},
+      "base": "Monash"
+    },
+    {
+      "name": "UWA",
+      "keyword": {},
+      "base": "UWA"
+    },
+    {
+      "name": "UA",
+      "keyword": {},
+      "base": "UA"
+    },
+    {
+      "name": "UTS",
+      "keyword": {},
+      "base": "UTS"
+    },
+    {
+      "name": "Wollongone",
+      "keyword": {}
+    },
+    {
+      "name": "Curtin",
+      "keyword": {},
+      "base": "Curtin"
+    },
+    {
+      "name": "Newcastle",
+      "keyword": {},
+      "base": "Newcastle"
+    },
+    {
+      "name": "Macquarie",
+      "keyword": {},
+      "base": "Macquarie"
+    },
+    {
+      "name": "RMIT",
+      "keyword": {},
+      "base": "RMIT"
+    },
+    {
+      "name": "Deakin",
+      "keyword": {},
+      "base": "Deakin"
+    },
+    {
+      "name": "Griffith",
+      "keyword": {},
+      "base": "Griffith"
+    }
+  ],
+  "nodes": [{"name": "ANU","value": 1,"category":0},
+{"name": "Unimelb","value": 1,"category":1},
+{"name": "Sydney","value": 1,"category":2},
+{"name": "UNSW","value": 1,"category":3},
+{"name": "UQ","value": 1,"category":4},
+{"name": "Monash","value": 1,"category":5},
+{"name": "UWA","value": 1,"category":6},
+{"name": "UA","value": 1,"category":7},
+{"name": "UTS","value": 1,"category":8},
+{"name": "Wollongone","value": 1,"category":9},
+{"name": "Curtin","value": 1,"category":10},
+{"name": "Newcastle","value": 1,"category":11},
+{"name": "Macquarie","value": 1,"category":12},
+{"name": "RMIT","value": 1,"category":13},
+{"name": "Deakin","value": 1,"category":14},
+{"name": "Griffith","value": 1,"category":15}
+],
+  "links": [{"source": 0,"target":4},
+{"source": 0,"target":10},
+{"source": 0,"target":1},
+{"source": 0,"target":13},
+{"source": 0,"target":9},
+{"source": 0,"target":12},
+{"source": 1,"target":10},
+{"source": 1,"target":13},
+{"source": 2,"target":15},
+{"source": 2,"target":4},
+{"source": 2,"target":0},
+{"source": 2,"target":13},
+{"source": 2,"target":7},
+{"source": 3,"target":2},
+{"source": 3,"target":3},
+{"source": 3,"target":5},
+{"source": 3,"target":12},
+{"source": 3,"target":10},
+{"source": 4,"target":11},
+{"source": 4,"target":4},
+{"source": 4,"target":1},
+{"source": 4,"target":14},
+{"source": 4,"target":5},
+{"source": 4,"target":6},
+{"source": 4,"target":13},
+{"source": 5,"target":0},
+{"source": 5,"target":12},
+{"source": 5,"target":14},
+{"source": 5,"target":4},
+{"source": 6,"target":12},
+{"source": 6,"target":2},
+{"source": 6,"target":0},
+{"source": 6,"target":0},
+{"source": 6,"target":13},
+{"source": 7,"target":12},
+{"source": 7,"target":8},
+{"source": 8,"target":1},
+{"source": 8,"target":10},
+{"source": 8,"target":13},
+{"source": 9,"target":9},
+{"source": 10,"target":1},
+{"source": 10,"target":8},
+{"source": 10,"target":4},
+{"source": 11,"target":11},
+{"source": 11,"target":6},
+{"source": 12,"target":14},
+{"source": 12,"target":8},
+{"source": 12,"target":1},
+{"source": 13,"target":3},
+{"source": 14,"target":13},
+{"source": 14,"target":14},
+{"source": 14,"target":13},
+{"source": 15,"target":7},
+{"source": 15,"target":8},
+{"source": 15,"target":7}
+]
+}

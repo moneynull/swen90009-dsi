@@ -1,0 +1,42 @@
+[{
+    "article": "Dehazenet: An end-to-end system for single image haze removal",
+    "authors": "Bolun Cai, Xiangmin Xu, Kui Jia, Chunmei Qing, Dacheng Tao",
+    "publishTime":"2016-8-10",
+    "citations":"1605",
+    "keywords": "Dehaze, image restoration, deep CNN, BReLU",
+    "abstract": "Single image haze removal is a challenging ill-posed problem. Existing methods use various constraints/priors to get plausible dehazing solutions. The key to achieve haze removal is to estimate a medium transmission map for an input hazy image. In this paper, we propose a trainable end-to-end system called DehazeNet, for medium transmission estimation. DehazeNet takes a hazy image as input, and outputs its medium transmission map that is subsequently used to recover a haze-free image via atmospheric scattering model. DehazeNet adopts convolutional neural network-based deep architecture, whose layers are specially designed to embody the established assumptions/priors in image dehazing. Specifically, the layers of Maxout units are used for feature extraction, which can generate almost all haze-relevant features. We also propose a novel nonlinear activation function in DehazeNet, called bilateral …",
+    "viewButtonName": "View All"
+  },{
+    "article": "A survey on vision transformer",
+    "authors": "Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao",
+    "publishTime":"2022-2-18",
+    "citations":"27",
+    "keywords": "Transformer, Self-attention, Computer Vision, High-level vision, Low-level vision, Video.",
+    "abstract": "Transformer, first applied to the field of natural language processing, is a type of deep neural network mainly based on the self-attention mechanism. Thanks to its strong representation capabilities, researchers are looking at ways to apply transformer to computer vision tasks. In a variety of visual benchmarks, transformer-based models perform similar to or better than other types of networks such as convolutional and recurrent neural networks. Given its high performance and less need for vision-specific inductive bias, transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer models by categorizing them in different tasks and analyzing their advantages and disadvantages. The main categories we explore include the backbone network, high/mid-level vision, low-level vision, and video processing. We also include efficient transformer …",
+    "viewButtonName": "View All"
+  },{
+    "article": "Semantic edge detection with diverse deep supervision",
+    "authors": "Yun Liu, Ming-Ming Cheng, Deng-Ping Fan, Le Zhang, Jia-Wang Bian, Dacheng Tao",
+    "publishTime":"2022-1-01",
+    "citations":"59",
+    "keywords": "Semantic edge detection, diverse deep supervision, information converter",
+    "abstract": "Transformer, first applied to the field of natural language processing, is a type of deep neural network mainly based on the self-attention mechanism. Thanks to its strong representation capabilities, researchers are looking at ways to apply transformer to computer vision tasks. In a variety of visual benchmarks, transformer-based models perform similar to or better than other types of networks such as convolutional and recurrent neural networks. Given its high performance and less need for vision-specific inductive bias, transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer models by categorizing them in different tasks and analyzing their advantages and disadvantages. The main categories we explore include the backbone network, high/mid-level vision, low-level vision, and video processing. We also include efficient transformer …",
+    "viewButtonName": "View All"
+  },{
+      "article": "General tensor discriminant analysis and gabor features for gait recognition",
+      "authors": "Dacheng Tao, Xuelong Li, Xindong Wu, Stephen J Maybank",
+      "publishTime":"2007-8-27",
+      "citations":"1293",
+      "keywords": "Gabor Gait, General Tensor Discriminant Analysis, Human Gait Recognition,Linear Discriminant Analysis, Tensor Rank, Visual Surveillance",
+      "abstract": "Traditional image representations are not suited to conventional classification methods such as the linear discriminant analysis (LDA) because of the undersample problem (USP): the dimensionality of the feature space is much higher than the number of training samples. Motivated by the successes of the two-dimensional LDA (2DLDA) for face recognition, we develop a general tensor discriminant analysis (GTDA) as a preprocessing step for LDA. The benefits of GTDA, compared with existing preprocessing methods such as the principal components analysis (PCA) and 2DLDA, include the following: 1) the USP is reduced in subsequent classification by, for example, LDA, 2) the discriminative information in the training tensors is preserved, and 3) GTDA provides stable recognition rates because the alternating projection optimization algorithm to obtain a solution of GTDA converges, whereas that of 2DLDA does …",
+      "viewButtonName": "View All"
+  },{
+    "article": "Asymmetric bagging and random subspace for support vector machines-based relevance feedback in image retrieval",
+    "authors": "Dacheng Tao, Xiaoou Tang, Xuelong Li, Xindong Wu",
+    "publishTime":"2006-6-25",
+    "citations":"1028",
+    "keywords": "Classifier committee learning, content-based image retrieval, relevance feedback, asymmetric bagging, random subspace, support vector machines.",
+    "abstract": "Relevance feedback schemes based on support vector machines (SVM) have been widely used in content-based image retrieval (CBIR). However, the performance of SVM-based relevance feedback is often poor when the number of labeled positive feedback samples is small. This is mainly due to three reasons: 1) an SVM classifier is unstable on a small-sized training set, 2) SVM's optimal hyperplane may be biased when the positive feedback samples are much less than the negative feedback samples, and 3) overfitting happens because the number of feature dimensions is much higher than the size of the training set. In this paper, we develop a mechanism to overcome these problems. To address the first two problems, we propose an asymmetric bagging-based SVM (AB-SVM). For the third problem, we combine the random subspace method and SVM for relevance feedback, which is named random …",
+    "viewButtonName": "View All"
+  }
+  ]

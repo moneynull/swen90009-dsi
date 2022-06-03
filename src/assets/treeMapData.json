@@ -1,0 +1,20 @@
+{
+  "name": "echarts",
+  "children": [
+    {
+      "name": "action",
+      "size": 100,
+      "value": 100
+    },
+    {
+      "name": "animation",
+      "size": 200,
+      "value": 200
+    },
+    {
+      "name": "Finance",
+      "size": 300,
+      "value": 300
+    }
+  ]
+}
